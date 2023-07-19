@@ -1,0 +1,27 @@
+_repo: How-the-shortage-of-skilled-mechanics-is-being-overcome-by-training-the-unskilled_71125
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Defense, Council of National
+    gutenberg_agent_id: '56084'
+    url: http://www.gutenberg.org/2009/agents/56084
+description: ''
+gutenberg_issued: '2023-07-05'
+identifiers:
+  gutenberg: '71125'
+language: en
+pgterms:marc904: https://archive.org/details/howshortageofski00unit/mode/2up
+pgterms:marc905: 20200807223210councilofn
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: Bob Taylor, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bDepartment of Labor, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: How the shortage of skilled mechanics is being overcome by training the unskilled
+url: http://www.gutenberg.org/ebooks/71125
