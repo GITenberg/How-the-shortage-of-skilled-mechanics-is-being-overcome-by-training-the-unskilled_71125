@@ -1,11 +1,16 @@
 _repo: How-the-shortage-of-skilled-mechanics-is-being-overcome-by-training-the-unskilled_71125
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71125-h/images/cover.jpg
 creator:
   author:
     agent_name: Defense, Council of National
     gutenberg_agent_id: '56084'
     url: http://www.gutenberg.org/2009/agents/56084
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71125#How-the-shortage-of-skilled-mechanics-is-being-overcome-by-training-the-unskilled
 gutenberg_issued: '2023-07-05'
 identifiers:
   gutenberg: '71125'
